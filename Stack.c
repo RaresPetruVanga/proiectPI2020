@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "Queue.h"
+#include "Stack.h"
 
 stack* newQue(int x, int y)
 {
